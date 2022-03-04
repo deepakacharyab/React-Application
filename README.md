@@ -3,11 +3,12 @@
 2. install yarn (npm install yarn)
 
 Please extract the project into a folder then open the terminal at the same folder.
-Then, execute command `yarn` to download dependency node modules.
 
-Then, execute `yarn start` to run the application.
+First, run command `yarn` to download dependency node modules.
 
-The project has 4 different folders in the src:
+Then, run `yarn start` to run the application.
+
+**The project has 4 different folders in the src:
 
 Components - The react components.
 
