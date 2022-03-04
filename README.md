@@ -8,8 +8,8 @@ First, run command `yarn` to download dependency node modules.
 
 Then, run `yarn start` to run the application.
 
-**The project has 4 different folders in the src:
-**
+The project has 4 different folders in the src:
+
 Components - The react components.
 
 Api_folder - Api call scripts.
